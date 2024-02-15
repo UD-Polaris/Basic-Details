@@ -32,7 +32,7 @@ I am Unmesa Dey, a **MERN STACK DEVELOPER** .
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=UD-Polaris&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UD-Polaris&hide=TeX&layout=compact&theme=prussian)
 
 view rawREADME.txt hosted with ❤ by GitHub
